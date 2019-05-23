@@ -1,3 +1,3 @@
-var harga1 = 6;
-var harga2 = 12;
-var total = harga1 + harga2;
+var hargaapayaaaaaaa = 6;
+var hargahsdjjasdfffffffffffffrfkrdkkss = 12;
+var totalirjslgksjhnghdsnshhdhfllllllllllllllllllllllllrv t5it5it5i,/ tfghfgdfre = harga1 + harga2;
